@@ -24,10 +24,3 @@ This project demonstrates the use of OpenCL to perform image processing on video
 ![image](https://github.com/user-attachments/assets/1b362be3-c002-40b0-8b25-7c581500103d)
 
 ![image](https://github.com/user-attachments/assets/1b290b63-ca72-45d1-b732-3a5af8dd23cd)
-
-
-## Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/amingolnari/OpenCL-Video-Processing.git
